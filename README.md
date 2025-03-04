@@ -1,7 +1,7 @@
 # xAR PyTorch
 
 <p align="center">
-  <img src="xAR.png" alt="xAR" style="display:block; margin:auto; width:800px;" />
+  <img src="xAR.png" alt="xAR" style="display:block; margin:auto; width:850px;" />
 </p>
 
 PyTorch implementation of xAR.
